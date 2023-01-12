@@ -7,6 +7,7 @@ Disponibilizei um script chamado "exemplo.py" neste repositório para facilitar 
 
 Para que o script funcione como uma biblioteca, basta salvar na mesma pasta do seu projeto e depois importar direto do seu script, utilizando o método "import".
 Não se esqueça de NÃO incluir o .py, do contrário, a biblioteca não será importada e, portanto, não funcionará.
+
 Ex.: import pysearch
 
 Espero ter ajudado :)
