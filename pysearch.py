@@ -1,5 +1,3 @@
-version 0.1 for Windows
-
 import os
 
 def search(text):
