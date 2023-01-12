@@ -6,7 +6,7 @@ Por meio de um simples comando, o script é capaz de acessar a internet e pesqui
 Disponibilizei um script chamado "exemplo.py" neste repositório para facilitar o entendimento do usuário final.
 
 Para que o script funcione como uma biblioteca, basta salvar na mesma pasta do seu projeto e depois importar direto do seu script, utilizando o método "import".
-Não se esqueça de NÃO incluir o .py, caso o contrário, a biblioteca não será importada e, portanto, não funcionará.
+Não se esqueça de NÃO incluir o .py, do contrário, a biblioteca não será importada e, portanto, não funcionará.
 Ex.: import pysearch
 
 Espero ter ajudado :)
