@@ -1,4 +1,4 @@
 import pysearch
 
-entrada = str(input('Pesquise aqui: '))
-pysearch.search(entrada)
+inputtext = str(input('Search here: '))
+pysearch.search(imputtext)
