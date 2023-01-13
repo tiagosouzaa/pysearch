@@ -1,15 +1,15 @@
 # pysearch
 
-Pysearch é uma biblioteca de código aberto, criada com o intuito de facilitar o desenvolvimento de projetos que tenham como objetivo realizar pesquisas na internet.
-Por meio de um simples comando, o script é capaz de acessar a internet e pesquisar pelo texto ou entrada adicionada como parametro à função.
+Pysearch is an open source library, created with the aim of facilitating the development of projects that aim to carry out searches on the internet.
+Through a simple command, the script is able to access the internet and search for the text or input added as a parameter to the function.
 
-Disponibilizei um script chamado "exemplo.py" neste repositório para facilitar o entendimento do usuário final.
+I have made a script called "example.py" available in this repository to facilitate the end user's understanding.
 
-Para que o script funcione como uma biblioteca, basta salva-lo na mesma pasta do seu projeto e depois importar direto do seu script, utilizando o método "import".
-Não se esqueça de NÃO incluir o .py, do contrário, a biblioteca não será importada e, portanto, não funcionará.
+For the script to work as a library, just save it in the same folder as your project and then import it directly from your script, using the "import" method.
+Don't forget to NOT include the .py, otherwise the library won't be imported and therefore it won't work.
 
-Ex.: import pysearch
+Eg: import pysearch
 
-Espero ter ajudado :)
+Hope this helps :)
 
  - Tiago Souza
